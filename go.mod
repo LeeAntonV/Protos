@@ -1,4 +1,4 @@
-module Protos
+module github.com/LeeAntonV/Protos
 
 go 1.21
 
