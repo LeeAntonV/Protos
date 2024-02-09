@@ -190,7 +190,7 @@ type LoginResponse struct {
 	sizeCache     protoimpl.SizeCache
 	unknownFields protoimpl.UnknownFields
 
-	Token string `protobuf:"bytes,1,opt,name=token,proto3" json:"token,omitempty"` //JWT Token to verify succesfull loging
+	Token string `protobuf:"bytes,1,opt,name=token,proto3" json:"token,omitempty"` //JWT Token to verify successful sign in
 }
 
 func (x *LoginResponse) Reset() {

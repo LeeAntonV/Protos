@@ -26,7 +26,7 @@ message LoginRequest{
 }
 
 message LoginResponse{
-  string token = 1;//JWT Token to verify succesfull loging
+  string token = 1;//JWT Token to verify successful sign in
 }
 
 message IsAdminRequest{
