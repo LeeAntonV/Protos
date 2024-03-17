@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8bd1ba0-a240-4b32-a7f4-0bc3fdc702c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gen/go/anton.sso.v1/sso_grpc.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/sso/sso.proto" beforeDir="false" afterPath="$PROJECT_DIR$/proto/sso/sso.proto" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <recent name="C:\Users\Anton\GolandProjects\Protos\protos" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build gRPC/cmd/sso">
     <configuration name="go build gRPC/cmd/sso" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gRPC" />
       <working_directory value="$PROJECT_DIR$/../gRPC" />
@@ -83,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build gRPC/cmd/sso" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
