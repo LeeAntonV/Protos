@@ -7,6 +7,7 @@ option go_package = "anton.sso.v1;ssov1";
 service Auth{
   rpc Register (RegisterRequest) returns (RegisterResponse);
   rpc Login (LoginRequest) returns (LoginResponse);
+  rpc IsAdmin (IsAdminRequest) returns (IsAdminResponse);
 //  rpc IsAdmin (IsAdminRequest) returns (IsAdminResponse);
 }
 
@@ -35,4 +36,12 @@ message IsAdminRequest{
 
 message IsAdminResponse{
   bool is_admin = 1;
+}
+
+message CodeRequest{
+  string code = 1;
+}
+
+message CodeResponse{
+  bool ValidCode = 1;
 }
