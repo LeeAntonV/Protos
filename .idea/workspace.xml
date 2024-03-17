@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8bd1ba0-a240-4b32-a7f4-0bc3fdc702c2" name="Changes" comment="" />
+    <list default="true" id="c8bd1ba0-a240-4b32-a7f4-0bc3fdc702c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/gen/go/anton.sso.v1/sso_grpc.pb.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
